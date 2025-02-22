@@ -31,8 +31,7 @@ disease_prediction/
 
 🚀 How to Run
 1️⃣ Clone the repository:
-  git clone https://github.com/ayush1665/disease-prediction
-  cd disease-prediction
+  git clone https://github.com/Ayush1665/disease_prediction.git
 
 2️⃣ Install dependencies:
   pip install -r requirements.txt
