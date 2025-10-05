@@ -3,4 +3,5 @@ pandas
 numpy
 scikit-learn
 joblib
+streamlit_option_menu
 pickle-mixin
